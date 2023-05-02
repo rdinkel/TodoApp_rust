@@ -1,5 +1,5 @@
 [package]
-name = "TodoApp_rust"
+name = "todo_app_rust_very_simple"
 description = "Just for fun some Rust exercise."
 version = "0.1.0"
 edition = "2021"
